@@ -1,4 +1,4 @@
-# FRT-Project-COVID-Chatbot-using-Azure
+# FRT-Project-COVID-19-Chatbot-using-Azure
 
 Chatbot Link (Web-based): https://webchat.botframework.com/embed/omicron-alvr-bot/gemini?b=omicron-alvr-bot&s=cB0hsCmZ2m8.EznJgvdSKn7xfJERHqgzuQexSQETWFjJgC4cbc_cNpQ&username=You
 
